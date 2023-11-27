@@ -1,0 +1,1 @@
+const body = document.<i class="fa fa-birthday-cake" aria-hidden="true"></i>
