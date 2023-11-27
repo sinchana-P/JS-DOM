@@ -16,5 +16,4 @@ console.log(div.textContent);
         // Bye
         
 console.log(div.innerText);
-// o/p:
 // Hello

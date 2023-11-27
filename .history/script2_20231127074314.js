@@ -11,10 +11,4 @@
 const div = document.querySelector("div")
 
 console.log(div.textContent);   
-// o/p:
-        // Hello
-        // Bye
-        
 console.log(div.innerText);
-// o/p:
-// Hello
