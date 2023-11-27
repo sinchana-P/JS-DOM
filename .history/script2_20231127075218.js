@@ -1,5 +1,5 @@
-// 2. Creating Elements : "createElement" & 
-// 3. Modifying Element Text : "textContent", "innerText"
+// 2. Creating Elements &
+// 3. Modifying Element Text
 
 // const body = document.body
 // const div = document.createElement("div")
@@ -18,7 +18,7 @@ console.log(div.textContent);   // Displays Both Visible & Invisible Elements
         // Hello
         // Bye
         
-console.log(div.innerText);     // Displays only Visible Elements
+console.log(div.innerText);     // Displays Both Visible & Invisible Elements
 // o/p:
 // Hello
 

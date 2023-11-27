@@ -1,5 +1,5 @@
 // 2. Creating Elements : "createElement" & 
-// 3. Modifying Element Text : "textContent", "innerText"
+// 3. Modifying Element Text : 
 
 // const body = document.body
 // const div = document.createElement("div")
