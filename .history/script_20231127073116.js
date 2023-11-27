@@ -1,0 +1,6 @@
+// 1. Adding Elements
+// a. append()
+// b. appendChild()
+
+const body = document.body
+body.appendChild("Hello World2")
