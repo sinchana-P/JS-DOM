@@ -1,0 +1,1 @@
+const spanHi = document.querySelector(selectors)
